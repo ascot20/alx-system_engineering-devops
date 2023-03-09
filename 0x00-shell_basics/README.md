@@ -1,1 +1,1 @@
-my readme
+Directory for shell basics
